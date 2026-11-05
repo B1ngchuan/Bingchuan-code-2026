@@ -1,0 +1,10 @@
+#编译生成的文件
+*.exe
+*.o
+*.obj
+
+#构建目录
+build/
+
+#本次恢复期前的 VS Code 配置备份
+.vscode/backup-before-fix-*/
